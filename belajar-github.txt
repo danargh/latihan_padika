@@ -1,2 +1,3 @@
 GIT HUB 
 - sistem yang menangani version sehingga perubahan dapat di historikan agar mudah di akses 
+- git hub merupakan versi online dari git 
